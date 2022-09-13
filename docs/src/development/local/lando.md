@@ -4,6 +4,9 @@ sidebarTitle: "Lando"
 description: Find out how to include Lando in your local development workflow.
 weight: 1
 ---
+Lando is not suitable for deployment on Platform SH. 
+
+https://docs.lando.dev/platformsh/caveats.html
 
 [Lando](https://docs.lando.dev) is third-party local development tool for which several stacks are available (LAMP, LEMP, MEAN).
 Lando supports Platform.sh PHP projects out of the box through a plugin.
